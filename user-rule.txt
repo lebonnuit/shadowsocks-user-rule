@@ -1,0 +1,39 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+
+！Foreign Services
+||amazonaws.com^
+||aws.amazon.com^
+||amazonwebservices.com^
+||getpocket.com^
+||notion.so^
+||pinterest.fr^
+||cloudfront.net^
+||twitter.com^
+||cloudfront.net^
+@@outlook.live.com/mail^
+
+！Most-used Chinese Websites
+@@item.taobao.com^
+@@*.taobao.com^
+@@baidu.com^
+@@mp.weixin.qq.com^
+@@detail.tmall.com/item^
+@@qikan.cqvip.com^
+@@52pojie.cn^
+@@pan.baidu.com^
+@@pan.baidu.com/^
+
+！Leisure
+||pixiv.net^
+||tumblr.com^
+||giphy.com^
+
+! Temporary
+@@liangchenyun.xyz^
+@@study.zhihuishu.com^
+@@*.amanote.com^
+@@*.fgzz.wap.gxlib.org^
+@@gaoding.com^
+@@www.maidoc.com^
+||schema.rock^
